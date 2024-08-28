@@ -5,7 +5,7 @@ A Ecommerce Website made with React.js Framework.
 
 ## Demo
 
-https://siva-portfolio-new.netlify.app
+https://siva-ecommerce-website.netlify.app
 
 ## Features
 
