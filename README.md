@@ -5,7 +5,7 @@ A Ecommerce Website made with React.js Framework.
 
 ## Demo
 
-siva-ecommerce-website.netlify.app
+https://siva-portfolio-new.netlify.app
 
 ## Features
 
@@ -24,7 +24,7 @@ siva-ecommerce-website.netlify.app
 Clone the project
 
 ```bash
-  git clone https://github.com/ssahibsingh/React_E-Commerce
+  git clone https://github.com/siva8825/ecommerce-project.git
 ```
 
 Go to the project directory
